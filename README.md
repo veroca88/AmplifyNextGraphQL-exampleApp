@@ -1,7 +1,8 @@
 # TO-DO APP!
 
 ⌛ For those who always are doing different task this app can help you!! A lot...
-Or if you want understand 🔍 how you can interact using Node.js and MongoDB check the code!!
+Or if you want understand 🔍 how you can interact (Create, Read, Update, Delete) using Node.js and MongoDB check the code!!
+--- Still in construction!
 
 ## 🔧 To install
 
